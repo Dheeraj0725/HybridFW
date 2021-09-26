@@ -1,0 +1,79 @@
+14:11:22.604 [main] INFO  resources.Base - test case 9 started
+14:11:31.416 [main] INFO  resources.Base - testcase 9 passed
+14:12:30.028 [main] INFO  resources.Base - Home page started
+14:12:34.044 [main] INFO  resources.Base - Starting test case 1
+14:12:39.946 [main] INFO  resources.Base - pop up closed
+14:12:43.056 [main] INFO  resources.Base - page scrolled
+14:12:43.056 [main] INFO  resources.Base - tc1 passed
+14:12:46.674 [main] INFO  resources.Base - Home page started
+14:12:51.887 [main] INFO  resources.Base - test case 10 started
+14:12:53.269 [main] INFO  resources.Base - item selected
+14:12:55.357 [main] INFO  resources.Base - item1 selected for compare
+14:12:55.825 [main] INFO  resources.Base - item1 selected for compare
+14:12:55.982 [main] INFO  resources.Base - items compared
+14:12:56.611 [main] INFO  resources.Base - Compared item added to cart
+14:12:56.624 [main] INFO  resources.Base - switching to child id
+14:13:02.084 [main] INFO  resources.Base - testcase 10 passed
+14:13:06.487 [main] INFO  resources.Base - Home page started
+14:13:10.498 [main] INFO  resources.Base - testcase 11 started
+14:13:10.635 [main] INFO  resources.Base - study button clicked
+14:13:12.832 [main] INFO  resources.Base - table selection clicked
+14:13:13.911 [main] INFO  resources.Base - added to wishlist
+14:13:18.659 [main] INFO  resources.Base - Home page started
+14:13:22.719 [main] INFO  resources.Base - testcase 12 started
+14:13:26.163 [main] INFO  resources.Base - order button clicked
+14:13:33.221 [main] INFO  resources.Base - Home page started
+14:13:37.255 [main] INFO  resources.Base - testcase 13 started
+14:13:39.724 [main] INFO  resources.Base - gift card clicked
+14:13:40.183 [main] INFO  resources.Base - House warming gift card selected
+14:13:40.473 [main] INFO  resources.Base - cost selected
+14:13:40.628 [main] INFO  resources.Base - next button clicked
+14:13:40.628 [main] INFO  resources.Base - testcase 13 passed
+14:13:44.505 [main] INFO  resources.Base - Home page started
+14:13:50.501 [main] INFO  resources.Base - testcase 14 started
+14:13:51.070 [main] INFO  resources.Base - study button clicked
+14:13:53.177 [main] INFO  resources.Base - table selection clicked
+14:13:57.353 [main] INFO  resources.Base - table selection done
+14:13:57.356 [main] INFO  resources.Base - switching to child id
+14:14:02.750 [main] INFO  resources.Base - element clicked, item added to cart
+14:14:02.750 [main] INFO  resources.Base - testcase 14 passed
+14:14:07.616 [main] INFO  resources.Base - Home page started
+14:14:11.619 [main] INFO  resources.Base - testcase 15 started
+14:14:14.265 [main] INFO  resources.Base - Stores button clicked
+14:14:16.279 [main] INFO  resources.Base - store selected to view
+14:14:17.610 [main] INFO  resources.Base - Maps button clicked
+14:14:17.611 [main] INFO  resources.Base - testcase 15 passed
+14:14:22.415 [main] INFO  resources.Base - Home page started
+14:14:26.418 [main] INFO  resources.Base - test case 2 started
+14:14:27.917 [main] INFO  resources.Base - stories button visible and clicked
+14:14:28.078 [main] INFO  resources.Base - test case 2 passed
+14:14:33.789 [main] INFO  resources.Base - Home page started
+14:14:37.791 [main] INFO  resources.Base - testcase 3 started
+14:14:39.931 [main] INFO  resources.Base - image clicked
+14:14:40.205 [main] INFO  resources.Base - image closed
+14:14:40.205 [main] INFO  resources.Base - tc3 passed
+14:14:44.905 [main] INFO  resources.Base - Home page started
+14:14:48.908 [main] INFO  resources.Base - test case 4 started
+14:14:51.026 [main] INFO  resources.Base - image clicked
+14:15:05.634 [main] INFO  resources.Base - Home page started
+14:15:09.636 [main] INFO  resources.Base - test case 5 started
+14:15:09.673 [main] INFO  resources.Base - search clicked
+14:15:09.817 [main] INFO  resources.Base - test case 5 passed
+14:15:13.969 [main] INFO  resources.Base - Home page started
+14:15:17.974 [main] INFO  resources.Base - test case 6 started
+14:15:18.295 [main] INFO  resources.Base - data entered
+14:15:19.744 [main] INFO  resources.Base - enter button clicked
+14:15:19.745 [main] INFO  resources.Base - test case 6 passed
+14:15:24.030 [main] INFO  resources.Base - Home page started
+14:15:28.039 [main] INFO  resources.Base - test case 7 started
+14:15:29.757 [main] INFO  resources.Base - drop down verified
+14:15:29.762 [main] INFO  resources.Base - assertion started
+14:15:29.762 [main] INFO  resources.Base - assertion passed
+14:15:29.762 [main] INFO  resources.Base - testcase 7 completed
+14:15:35.058 [main] INFO  resources.Base - Home page started
+14:15:39.185 [main] INFO  resources.Base - test case 8 started
+14:15:44.645 [main] INFO  resources.Base - element clicked
+14:15:44.645 [main] INFO  resources.Base - changing to child window
+14:15:45.014 [main] INFO  resources.Base - switched to location window
+14:15:47.895 [main] INFO  resources.Base - assert passed
+14:15:47.896 [main] INFO  resources.Base - location selected

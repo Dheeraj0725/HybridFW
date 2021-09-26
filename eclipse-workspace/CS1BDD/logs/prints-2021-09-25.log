@@ -1,0 +1,8 @@
+01:39:47.076 [main] INFO  resources.Base - url initialized
+01:39:47.091 [main] INFO  resources.Base - Starting test case 1
+01:39:47.182 [main] INFO  resources.Base - testcase 12 started
+01:39:52.864 [main] INFO  resources.Base - order button clicked
+01:40:03.505 [main] INFO  resources.Base - Home page started
+01:40:04.987 [main] INFO  resources.Base - url initialized
+01:40:04.988 [main] INFO  resources.Base - Starting test case 1
+01:40:05.130 [main] INFO  resources.Base - testcase 13 started

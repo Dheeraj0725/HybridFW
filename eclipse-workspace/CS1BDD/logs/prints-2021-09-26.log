@@ -1,0 +1,81 @@
+17:30:57.692 [main] INFO  resources.Base - table selection clicked
+17:30:59.262 [main] INFO  resources.Base - added to wishlist
+17:31:04.226 [main] INFO  resources.Base - Home page started
+17:31:05.044 [main] INFO  resources.Base - url initialized
+17:31:05.044 [main] INFO  resources.Base - Starting test case 1
+17:31:05.085 [main] INFO  resources.Base - testcase 12 started
+17:31:09.452 [main] INFO  resources.Base - order button clicked
+17:31:16.026 [main] INFO  resources.Base - Home page started
+17:31:16.750 [main] INFO  resources.Base - url initialized
+17:31:16.752 [main] INFO  resources.Base - Starting test case 1
+17:31:16.785 [main] INFO  resources.Base - testcase 13 started
+17:31:19.901 [main] INFO  resources.Base - gift card clicked
+17:31:20.414 [main] INFO  resources.Base - House warming gift card selected
+17:31:20.822 [main] INFO  resources.Base - cost selected
+17:31:20.938 [main] INFO  resources.Base - next button clicked
+17:31:20.938 [main] INFO  resources.Base - testcase 13 passed
+17:32:59.132 [main] INFO  resources.Base - Home page started
+17:33:00.398 [main] INFO  resources.Base - url initialized
+17:33:00.398 [main] INFO  resources.Base - Starting test case 1
+17:33:00.452 [main] INFO  resources.Base - pop up closed
+17:33:03.723 [main] INFO  resources.Base - page scrolled
+17:33:03.723 [main] INFO  resources.Base - tc1 passed
+17:33:08.073 [main] INFO  resources.Base - Home page started
+17:33:08.785 [main] INFO  resources.Base - url initialized
+17:33:08.786 [main] INFO  resources.Base - Starting test case 1
+17:33:10.051 [main] INFO  resources.Base - test case 2 started
+17:33:10.052 [main] INFO  resources.Base - stories button visible and clicked
+17:33:11.694 [main] INFO  resources.Base - test case 2 passed
+17:33:15.679 [main] INFO  resources.Base - Home page started
+17:33:16.381 [main] INFO  resources.Base - url initialized
+17:33:16.381 [main] INFO  resources.Base - Starting test case 1
+17:33:17.841 [main] INFO  resources.Base - testcase 3 started
+17:33:18.353 [main] INFO  resources.Base - image clicked
+17:33:18.816 [main] INFO  resources.Base - image closed
+17:33:18.816 [main] INFO  resources.Base - tc3 passed
+17:33:22.641 [main] INFO  resources.Base - Home page started
+17:33:23.538 [main] INFO  resources.Base - url initialized
+17:33:23.539 [main] INFO  resources.Base - Starting test case 1
+17:33:24.743 [main] INFO  resources.Base - testcase 3 started
+17:33:25.296 [main] INFO  resources.Base - image clicked
+17:33:25.297 [main] INFO  resources.Base - image clicked
+17:33:25.298 [main] INFO  resources.Base - testcase 4 passed
+17:33:29.162 [main] INFO  resources.Base - Home page started
+17:33:30.107 [main] INFO  resources.Base - url initialized
+17:33:30.107 [main] INFO  resources.Base - Starting test case 1
+17:33:30.135 [main] INFO  resources.Base - test case 6 started
+17:33:34.391 [main] INFO  resources.Base - Home page started
+17:33:35.049 [main] INFO  resources.Base - url initialized
+17:33:35.050 [main] INFO  resources.Base - Starting test case 1
+17:33:35.081 [main] INFO  resources.Base - test case 6 started
+17:33:35.716 [main] INFO  resources.Base - data entered
+17:33:37.172 [main] INFO  resources.Base - enter button clicked
+17:33:37.173 [main] INFO  resources.Base - test case 6 passed
+17:33:41.182 [main] INFO  resources.Base - Home page started
+17:33:41.884 [main] INFO  resources.Base - url initialized
+17:33:41.884 [main] INFO  resources.Base - Starting test case 1
+17:33:41.921 [main] INFO  resources.Base - test case 6 started
+17:33:42.499 [main] INFO  resources.Base - data entered
+17:33:43.647 [main] INFO  resources.Base - enter button clicked
+17:33:43.648 [main] INFO  resources.Base - test case 6 passed
+17:33:43.650 [main] INFO  resources.Base - test case 7 started
+17:33:45.640 [main] INFO  resources.Base - drop down verified
+17:33:45.643 [main] INFO  resources.Base - assertion started
+17:33:45.643 [main] INFO  resources.Base - testcase 7 completed
+17:33:49.337 [main] INFO  resources.Base - Home page started
+17:33:50.108 [main] INFO  resources.Base - url initialized
+17:33:50.108 [main] INFO  resources.Base - Starting test case 1
+17:33:50.158 [main] INFO  resources.Base - test case 8 started
+17:33:54.171 [main] INFO  resources.Base - element clicked
+17:33:54.174 [main] INFO  resources.Base - changing to child window
+17:33:54.491 [main] INFO  resources.Base - location selected
+17:33:58.126 [main] INFO  resources.Base - Home page started
+17:33:58.770 [main] INFO  resources.Base - url initialized
+17:33:58.771 [main] INFO  resources.Base - Starting test case 1
+17:33:58.818 [main] INFO  resources.Base - test case 9 started
+17:34:08.928 [main] INFO  resources.Base - Home page started
+17:34:09.567 [main] INFO  resources.Base - url initialized
+17:34:09.568 [main] INFO  resources.Base - Starting test case 1
+17:34:09.604 [main] INFO  resources.Base - test case 10 started
+17:34:12.021 [main] INFO  resources.Base - item selected
+17:34:13.937 [main] INFO  resources.Base - item1 selected for compare

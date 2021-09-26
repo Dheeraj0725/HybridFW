@@ -1,0 +1,8 @@
+01:49:30.007 [main] INFO  resources.Base - Starting test case 1
+01:49:30.141 [main] INFO  resources.Base - testcase 12 started
+01:49:34.371 [main] INFO  resources.Base - order button clicked
+01:49:43.321 [main] INFO  resources.Base - Home page started
+01:49:44.165 [main] INFO  resources.Base - url initialized
+01:49:44.167 [main] INFO  resources.Base - Starting test case 1
+01:49:44.265 [main] INFO  resources.Base - testcase 13 started
+01:49:49.373 [main] INFO  resources.Base - gift card clicked

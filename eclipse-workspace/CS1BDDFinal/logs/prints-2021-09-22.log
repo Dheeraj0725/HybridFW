@@ -1,0 +1,9 @@
+22:02:05.225 [main] INFO  resources.Base - home page opened
+22:02:05.721 [main] INFO  resources.Base - testcase 3 started
+22:02:22.049 [main] INFO  resources.Base - image clicked
+22:02:22.213 [main] INFO  resources.Base - image closed
+22:02:22.214 [main] INFO  resources.Base - tc3 passed
+22:08:19.984 [main] INFO  resources.Base - home page opened
+22:08:20.623 [main] INFO  resources.Base - test case 4 started
+22:08:35.861 [main] INFO  resources.Base - image clicked
+23:23:49.150 [main] INFO  resources.Base - home page opened

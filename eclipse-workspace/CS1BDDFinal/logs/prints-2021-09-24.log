@@ -1,0 +1,8 @@
+23:12:08.515 [main] INFO  resources.Base - drop down verified
+23:12:08.522 [main] INFO  resources.Base - assertion started
+23:12:08.522 [main] INFO  resources.Base - assertion passed
+23:12:08.522 [main] INFO  resources.Base - testcase 7 completed
+23:12:14.764 [main] INFO  resources.Base - Home page started
+23:12:18.828 [main] INFO  resources.Base - test case 8 started
+23:12:24.036 [main] INFO  resources.Base - element clicked
+23:12:24.036 [main] INFO  resources.Base - changing to child window

@@ -1,0 +1,31 @@
+16:42:05.998 [main] INFO  resources.Base - test case 10 started
+16:42:10.035 [main] INFO  resources.Base - item selected
+16:42:12.223 [main] INFO  resources.Base - item1 selected for compare
+16:42:12.771 [main] INFO  resources.Base - item1 selected for compare
+16:42:12.887 [main] INFO  resources.Base - items compared
+16:42:26.970 [main] INFO  resources.Base - Home page started
+16:42:27.763 [main] INFO  resources.Base - url initialized
+16:42:27.764 [main] INFO  resources.Base - Starting test case 1
+16:42:27.817 [main] INFO  resources.Base - testcase 11 started
+16:42:28.312 [main] INFO  resources.Base - study button clicked
+16:42:30.542 [main] INFO  resources.Base - table selection clicked
+16:42:32.811 [main] INFO  resources.Base - added to wishlist
+16:42:36.920 [main] INFO  resources.Base - Home page started
+16:42:38.100 [main] INFO  resources.Base - url initialized
+16:42:38.101 [main] INFO  resources.Base - Starting test case 1
+16:42:38.396 [main] INFO  resources.Base - testcase 12 started
+16:42:42.093 [main] INFO  resources.Base - order button clicked
+16:42:48.578 [main] INFO  resources.Base - Home page started
+16:42:49.301 [main] INFO  resources.Base - url initialized
+16:42:49.304 [main] INFO  resources.Base - Starting test case 1
+16:42:49.519 [main] INFO  resources.Base - testcase 13 started
+16:42:52.425 [main] INFO  resources.Base - gift card clicked
+16:42:53.171 [main] INFO  resources.Base - House warming gift card selected
+16:42:53.385 [main] INFO  resources.Base - cost selected
+16:42:53.916 [main] INFO  resources.Base - next button clicked
+16:42:53.916 [main] INFO  resources.Base - testcase 13 passed
+08:11:08.419 [main] INFO  resources.Base - Home page started
+08:11:12.431 [main] INFO  resources.Base - Starting test case 1
+08:11:18.215 [main] INFO  resources.Base - pop up closed
+08:11:21.245 [main] INFO  resources.Base - page scrolled
+08:11:21.245 [main] INFO  resources.Base - tc1 passed

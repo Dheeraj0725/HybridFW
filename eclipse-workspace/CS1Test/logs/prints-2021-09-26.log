@@ -1,0 +1,81 @@
+16:38:12.181 [main] INFO  resources.Base - assertion passed
+16:38:12.192 [main] INFO  resources.Base - testcase 7 completed
+16:38:17.414 [main] INFO  resources.Base - Home page started
+16:38:21.464 [main] INFO  resources.Base - test case 8 started
+16:38:24.825 [main] INFO  resources.Base - element clicked
+16:38:24.826 [main] INFO  resources.Base - changing to child window
+16:38:25.052 [main] INFO  resources.Base - switched to location window
+16:38:27.997 [main] INFO  resources.Base - assert passed
+16:38:27.998 [main] INFO  resources.Base - location selected
+16:38:27.998 [main] INFO  resources.Base - testcase 8 passed
+16:38:32.193 [main] INFO  resources.Base - Home page started
+16:38:36.198 [main] INFO  resources.Base - test case 9 started
+16:38:43.807 [main] INFO  resources.Base - testcase 9 passed
+16:40:21.017 [main] INFO  resources.Base - Home page started
+16:40:21.660 [main] INFO  resources.Base - url initialized
+16:40:21.661 [main] INFO  resources.Base - Starting test case 1
+16:40:21.753 [main] INFO  resources.Base - pop up closed
+16:40:24.980 [main] INFO  resources.Base - page scrolled
+16:40:24.980 [main] INFO  resources.Base - tc1 passed
+16:40:46.539 [main] INFO  resources.Base - Home page started
+16:40:47.453 [main] INFO  resources.Base - url initialized
+16:40:47.455 [main] INFO  resources.Base - Starting test case 1
+16:40:47.550 [main] INFO  resources.Base - pop up closed
+16:40:50.908 [main] INFO  resources.Base - page scrolled
+16:40:50.908 [main] INFO  resources.Base - tc1 passed
+16:40:54.760 [main] INFO  resources.Base - Home page started
+16:40:55.467 [main] INFO  resources.Base - url initialized
+16:40:55.473 [main] INFO  resources.Base - Starting test case 1
+16:40:57.385 [main] INFO  resources.Base - test case 2 started
+16:40:57.387 [main] INFO  resources.Base - stories button visible and clicked
+16:40:57.917 [main] INFO  resources.Base - test case 2 passed
+16:41:01.756 [main] INFO  resources.Base - Home page started
+16:41:02.574 [main] INFO  resources.Base - url initialized
+16:41:02.575 [main] INFO  resources.Base - Starting test case 1
+16:41:03.869 [main] INFO  resources.Base - testcase 3 started
+16:41:04.470 [main] INFO  resources.Base - image clicked
+16:41:04.735 [main] INFO  resources.Base - image closed
+16:41:04.735 [main] INFO  resources.Base - tc3 passed
+16:41:08.607 [main] INFO  resources.Base - Home page started
+16:41:09.280 [main] INFO  resources.Base - url initialized
+16:41:09.281 [main] INFO  resources.Base - Starting test case 1
+16:41:11.369 [main] INFO  resources.Base - testcase 3 started
+16:41:12.780 [main] INFO  resources.Base - image clicked
+16:41:12.784 [main] INFO  resources.Base - image clicked
+16:41:12.784 [main] INFO  resources.Base - testcase 4 passed
+16:41:16.453 [main] INFO  resources.Base - Home page started
+16:41:17.291 [main] INFO  resources.Base - url initialized
+16:41:17.292 [main] INFO  resources.Base - Starting test case 1
+16:41:17.355 [main] INFO  resources.Base - test case 6 started
+16:41:22.661 [main] INFO  resources.Base - Home page started
+16:41:23.375 [main] INFO  resources.Base - url initialized
+16:41:23.376 [main] INFO  resources.Base - Starting test case 1
+16:41:23.399 [main] INFO  resources.Base - test case 6 started
+16:41:25.265 [main] INFO  resources.Base - data entered
+16:41:26.866 [main] INFO  resources.Base - enter button clicked
+16:41:26.866 [main] INFO  resources.Base - test case 6 passed
+16:41:30.807 [main] INFO  resources.Base - Home page started
+16:41:31.408 [main] INFO  resources.Base - url initialized
+16:41:31.409 [main] INFO  resources.Base - Starting test case 1
+16:41:31.450 [main] INFO  resources.Base - test case 6 started
+16:41:33.077 [main] INFO  resources.Base - data entered
+16:41:34.666 [main] INFO  resources.Base - enter button clicked
+16:41:34.666 [main] INFO  resources.Base - test case 6 passed
+16:41:34.669 [main] INFO  resources.Base - test case 7 started
+16:41:36.441 [main] INFO  resources.Base - drop down verified
+16:41:36.444 [main] INFO  resources.Base - assertion started
+16:41:36.444 [main] INFO  resources.Base - testcase 7 completed
+16:41:40.779 [main] INFO  resources.Base - Home page started
+16:41:41.525 [main] INFO  resources.Base - url initialized
+16:41:41.526 [main] INFO  resources.Base - Starting test case 1
+16:41:42.355 [main] INFO  resources.Base - test case 8 started
+16:41:43.284 [main] INFO  resources.Base - element clicked
+16:41:43.286 [main] INFO  resources.Base - changing to child window
+16:41:45.080 [main] INFO  resources.Base - location selected
+16:41:49.091 [main] INFO  resources.Base - Home page started
+16:41:49.753 [main] INFO  resources.Base - url initialized
+16:41:49.754 [main] INFO  resources.Base - Starting test case 1
+16:41:49.806 [main] INFO  resources.Base - test case 9 started
+16:42:04.980 [main] INFO  resources.Base - Home page started
+16:42:05.968 [main] INFO  resources.Base - url initialized
+16:42:05.970 [main] INFO  resources.Base - Starting test case 1

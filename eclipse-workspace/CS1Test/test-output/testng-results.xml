@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="14" total="15" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17762" started-at="2021-09-30T08:11:04 IST" finished-at="2021-09-30T08:11:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17762" started-at="2021-09-30T08:11:04 IST" finished-at="2021-09-30T08:11:22 IST">
+      <class name="CS.CS1Hybrid.HomePage">
+        <test-method status="PASS" signature="config()[pri:0, instance:CS.CS1Hybrid.HomePage@3972a855]" name="config" is-config="true" duration-ms="96" started-at="2021-09-30T08:11:04 IST" finished-at="2021-09-30T08:11:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="before()[pri:0, instance:CS.CS1Hybrid.HomePage@3972a855]" name="before" is-config="true" duration-ms="4053" started-at="2021-09-30T08:11:04 IST" finished-at="2021-09-30T08:11:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="TCase1()[pri:0, instance:CS.CS1Hybrid.HomePage@3972a855]" name="TCase1" duration-ms="12820" started-at="2021-09-30T08:11:08 IST" finished-at="2021-09-30T08:11:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:CS.CS1Hybrid.HomePage@3972a855]" name="teardown" is-config="true" duration-ms="753" started-at="2021-09-30T08:11:21 IST" finished-at="2021-09-30T08:11:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:CS.CS1Hybrid.HomePage@3972a855]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-09-30T08:11:22 IST" finished-at="2021-09-30T08:11:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CS.CS1Hybrid.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
